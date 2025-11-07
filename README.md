@@ -9,6 +9,7 @@ Please read the [CHALLENGE.md](CHALLENGE.md) file for the complete challenge req
 ## Solution Overview
 
 This solution implements a Wikipedia table data extractor and graph generator using **Laravel 10** framework with **PHP 8.1+**. The program extracts numeric data from Wikipedia tables and generates graph images.
+(You can read the [SOLUTION.md](SOLUTION.md) file for details.
 
 ### Key Features
 
