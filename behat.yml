@@ -1,0 +1,10 @@
+default:
+    suites:
+        default:
+            contexts:
+                - FeatureContext
+            paths:
+                - "%paths.base%/features"
+    autoload:
+        '': "%paths.base%/features/bootstrap"
+
